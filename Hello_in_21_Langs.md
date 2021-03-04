@@ -205,6 +205,7 @@ object HelloS {
     }
 }
 ```
+$ scalc HelloS.scala
 $ scala HelloS
 Hello World
 ```
