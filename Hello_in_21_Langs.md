@@ -54,6 +54,7 @@ class Program {
   }
 }
 ```
+> csc.exe hello.cs
 > hello.exe
 Hello World
 ```
@@ -216,6 +217,7 @@ Module Hello
     End Sub
 End Module
 ```
+> vbc.exe hello.vb
 > hello.exe
 Hello World
 ```
