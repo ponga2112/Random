@@ -125,6 +125,7 @@ Hello World
 
 Perl:
 ```
+use strict;
 print "Hello World\n";
 ```
 $ perl ./hello.pl
